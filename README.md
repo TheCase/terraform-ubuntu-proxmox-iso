@@ -14,6 +14,7 @@ Build dependencies
 * `m4`(1).
 * `mkisofs`(1) from the `cdrtools` package available from MacPorts or
   Homebrew.
+```brew install cdrtools```
 
 Runtime dependencies
 --------------------
